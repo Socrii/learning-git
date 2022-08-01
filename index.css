@@ -1,3 +1,120 @@
 body{
-    background-color:red;
+    color: #000000;
+    background-color: #29ccbe;
+}
+.h{
+    background-color: cornsilk;
+    width:min-content;
+    height: min-content;
+display: inline;
+font-size: 40px;
+font-weight: bold;
+padding: 5px;
+text-decoration:green wavy underline ;
+
+
+}
+.a{
+  
+    max-width: min-content;
+    background-color: #141616;
+    display: inline-block;
+    padding: 5px;
+}
+.b{
+   
+  max-width: fit-content;
+    margin-inline: 40px;
+    padding: 5px;
+ 
+    display: inline-block;
+}
+.c{
+    max-width: min-content;
+    margin-top: 20px;
+    font-size: 70px;
+    min-width: fit-content;
+    padding: 5px ; 
+    height: 70px;
+    
+    margin-left: 5px;
+    display:inline-block;
+}.ia{
+    
+    margin-top: 15px;
+max-width: min-content;
+margin: 5px;
+padding: 5px;
+display: inline-block;
+font-size:70px;
+padding: 10px;
+margin: 28px;
+height: 62px;
+
+}h2{
+    color: hwb(80 3% 93%);
+    font-weight: bold;
+    font: size 60px;
+    background-color: rgb(224, 103, 103);
+    max-width: min-content;
+    display: inline;
+    margin-bottom:90px;
+    height: 5px;
+
+ }
+.h{
+text-align: right;
+}.oy{
+    text-align: center;
+}
+button{
+    background-color:   pink;
+    color: black;
+    border-color: firebrick;
+    border-radius: 7px;
+}
+.ho{
+background-color: beige;
+height: 250px;
+padding-left: 5px;
+}
+.ko{
+    background-color: gold;
+    height: 50px;
+
+}
+.t{ margin-top: 7px;
+    background-color: beige;
+    padding: 5px;
+    margin-top: 15px;
+}
+.gh{
+    background-color:beige;
+    height: 150px;
+    padding-left: 5px;
+padding-top: 5px;
+}
+img{
+    border-radius: 8px;
+    border-style:solid;
+border-width: 4px;
+border-color: #444129;
+
+}
+.o{
+    background-color: beige;
+    margin: bottom 3px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+.t{
+   
+    background-color: palegoldenrod;
+}
+span{
+ font-weight: bold;
+ font-size: 30px;
+ padding: 3px;
+ margin-top: 25px;
+ background-color: coral;
 }
